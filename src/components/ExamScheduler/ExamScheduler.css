@@ -1,0 +1,347 @@
+.input-hr-min{
+    background-color: #ffffff;
+    border: 1px solid #E8E8E8;
+    width: 43px;
+    height: 44px;
+    border-radius: 4px;
+    padding-left: 10px;
+    margin: 0 10px 0 10px;
+}
+
+.input-ampm{
+    background-color: #ffffff;
+    border: 1px solid #E8E8E8;
+    width: 58px;
+    height: 48px;
+    border-radius: 4px;
+    padding-left: 10px;
+    margin: 0 15px 0 0;
+}
+
+.arrow-icon{
+   
+    position: absolute;
+left: 8.47%;
+right: 89.86%;
+top: 6.78%;
+bottom: 91.94%;
+Width:24px;
+Height:24px;
+Top:127px;
+Left:122px;
+}
+.arrow-text{
+    Width:311px;
+Height:40.31px;
+Top:122.95px;
+Left:165px;
+position:absolute;
+width: 311px;
+height: 40.31px;
+left: 165px;
+top: 122.95px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 33px;
+}
+.Box{
+    position: absolute;
+    width: 1196px;
+    height: 1660px;
+    left: 150px;
+    top: 183px; 
+    background: #FBFBFB;
+
+}
+
+.Branch{
+    position: relative;
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+margin-left: 51px;
+margin-top: 38.26px;
+}
+.Branchbox
+{
+    width: 344px;
+    height: 56px;
+    padding: 8px 16px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+border: 1px solid #E8E8EA;
+border-radius: 5px;
+}
+
+.Departmentbox{
+    width: 344px;
+    height: 56px;
+    padding: 8px 16px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+border: 1px solid #E8E8EA;
+border-radius: 5px;
+margin-top: 60px;
+margin-left: -83px;
+}
+
+.Department{
+    position: relative;
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+margin-left: 51px;
+margin-top: 38.26px;
+display: flex;
+}
+.Semester{
+    position: relative;
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+margin-left: 51px;
+margin-top: 38.26px;
+display: flex;
+}
+
+.Semesterbox
+{
+width: 344px;
+    height: 41px;
+    padding: 8px 16px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+border: 1px solid #E8E8EA;
+border-radius: 5px;
+margin-top: 60px;
+margin-left: -83px;
+
+}
+
+.Examtype{
+    position: relative;
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+margin-left: 25px; 
+margin-top: 38.26px;
+display: flex;
+}
+
+.Examtypebox{
+    padding: 8px 16px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+border: 1px solid #E8E8EA;
+border-radius: 5px;
+margin-top: 35px;
+margin-left: -70px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+width: 1150px;
+height: 56px;
+background: #FFFFFF;
+border: 1px solid #E8E8EA;
+border-radius: 5px;
+}
+
+.time-container{
+    align-items: center;
+}
+
+.Time
+{
+    position: relative;
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+margin-top: 38.26px;
+margin-left: -70px;
+}
+.FN
+{
+    position: relative;
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+margin-left: 35px;
+margin-top: 38.26px;
+}
+
+.Timebox{
+    Width:20px;
+Height:30px;
+padding: 0 16px;
+margin-left: 15px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+background: #FFFFFF;
+border: 1px solid #E8E8EA;
+border-radius: 5px;
+
+}
+.AN 
+{
+    position: relative;
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+margin-left: 35px;
+margin-top: 38.26px;
+}
+.Subjects
+{
+    position: relative;
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+margin-left: 51px;
+margin-top: 38.26px;
+display: flex;
+}
+.Labs
+{
+    position: relative;
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+margin-left: 51px;
+margin-top: 38.26px;
+display: flex;
+}
+.subjectbox
+{
+    width: 344px;
+    height: 41px;
+    padding: 8px 16px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+border-radius: 5px;
+margin-top: 60px;
+margin-left: -62px;
+background: #FFFFFF;
+border: 1px solid #E8E8EA;
+border-radius: 5px;
+}
+.labsbox{
+    width: 344px;
+    height: 41px;
+    padding: 8px 16px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+border: 1px solid #E8E8EA;
+border-radius: 5px;
+margin-top: 60px;
+margin-left: -35px;
+background: #FFFFFF;
+border-radius: 5px;
+}
+.Subjectcode{
+    background: #FFFFFF;
+border: 1px solid #E5E5E5;
+width: 181px;
+height: 56px;
+padding: 8px 16px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+border: 1px solid #E8E8EA;
+border-radius: 5px;
+margin-top: 60px;
+margin-left:0px;
+}
+.Namebox
+{
+    width: 344px;
+    height: 41px;
+    padding: 8px 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #E8E8EA;
+    border-radius: 5px;
+    margin-top: 59px;
+    margin-left: 50px;
+    background: #E8E8EA;
+    border-radius: 4px;
+}
+input:focus{
+    outline: none;
+}
+select:focus{
+    outline: none;
+}
+.date 
+{
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    width: 181px;
+    height: 45px;
+    padding: 8px 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #E8E8EA;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left:-40px;
+    border-radius: 10px;
+}
+.Datetext
+{
+    position: relative;
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+margin-left: 51px;
+margin-top: 35.26px;
+display: flex;
+}
+
+.FNAN{
+    margin-left: 30px;
+}
+
+.FNAN button{
+    width: 65px;
+    height: 60px;
+    margin-top: 57px;
+    background-color: white;
+    color: #c5c5c5;
+    border: 1px solid #E8E8EA;
+    border-radius: 4px;
+}
+
+.save-btn{
+    margin: 40px 0 80px;
+    padding: 0.8rem 2.5rem;
+    color: white;
+    background-color: #5375E2;
+    border: 1px solid #5375E2;
+    border-radius: 5px;
+    margin-left: 980px;
+}

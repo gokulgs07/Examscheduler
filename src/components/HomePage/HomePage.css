@@ -1,0 +1,30 @@
+.homepage-container{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+}
+
+.homepage-info{
+    font-style: normal;
+    letter-spacing: 0.03em;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.create-new-button{
+    position: absolute;
+    background-color: #5375E2;
+    border-radius: 5px;
+    padding: 0.5rem 2rem;
+    border: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+}

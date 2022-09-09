@@ -1,0 +1,60 @@
+.navbar-container{
+    width: 100%;
+    color: white;
+    background-color: #5375E2;
+    font-weight: 700;
+    display: flex;
+    height: 80px;
+
+}
+
+.navbar{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-inner-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navbar-icon img{
+    height: 50px;
+    width: 50px;
+}
+
+.logo-title{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.logo-title-top{
+    font-size: 16px;
+    font-family: 'Nunito';
+}
+
+.logo-title-down{
+    font-size: 32px;
+}
+
+.login-name{
+    /* margin-left: 500px; */
+    margin-left: 10px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-icon{
+    display: flex;
+    color: white;
+    width: 40px;
+    height: 40px;
+}
+
